@@ -23,11 +23,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-<<<<<<< HEAD
+
 $config['base_url'] = 'http://localhost/cishop/';
-=======
-$config['base_url'] = 'http://localhost/PBKK-FP/';
->>>>>>> 9a340d7ec575c39e8807f77613ca7df7e661a444
 
 /*
 |--------------------------------------------------------------------------
